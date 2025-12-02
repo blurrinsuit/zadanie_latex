@@ -1,0 +1,16 @@
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{3}{}%
+\contentsline {section}{\numberline {1.1}Wprowadzenie}{3}{}%
+\contentsline {subsection}{\numberline {1.1.1}Cel dokumentu}{3}{}%
+\contentsline {subsection}{\numberline {1.1.2}Zakres tematyczny}{3}{}%
+\contentsline {chapter}{\numberline {2}Rozwinięcie}{5}{}%
+\contentsline {section}{\numberline {2.1}Struktury danych i organizacja treści}{5}{}%
+\contentsline {subsection}{\numberline {2.1.1}Przykładowa tabela danych}{5}{}%
+\contentsline {subsection}{\numberline {2.1.2}Listy numerowane i nienumerowane}{5}{}%
+\contentsline {subsubsection}{Lista numerowana}{5}{}%
+\contentsline {subsubsection}{Lista nienumerowana}{6}{}%
+\contentsline {chapter}{\numberline {3}Podsumowanie}{7}{}%
+\contentsline {section}{\numberline {3.1}Podsumowanie treści}{7}{}%
+\contentsline {subsection}{\numberline {3.1.1}Najważniejsze punkty}{7}{}%
+\contentsline {subsection}{\numberline {3.1.2}Kierunki rozwoju}{7}{}%
+\contentsline {chapter}{\numberline {4}Wnioski}{8}{}%
+\contentsline {section}{\numberline {4.1}Link do repozytorium}{8}{}%
